@@ -7,7 +7,7 @@ var config = {
     //projection: 'equirectangular',
     //Read more about available projections here
     //https://docs.mapbox.com/mapbox-gl-js/example/projections/
-    inset: true,
+    inset: false,
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
@@ -48,7 +48,7 @@ var config = {
         },
         {
             id: 'pageone',
-            alignment: 'fully',
+            alignment: 'full',
             hidden: false,
             title: 'Chapter 2',
             image: './images/ndvigradient1720.gif',
