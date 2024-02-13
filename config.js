@@ -52,7 +52,7 @@ var config = {
             hidden: false,
             title: 'Chapter 2',
             image: './images/ndvigradient1720.gif',
-            description: 'this is a graphic of the seasonal latitudinal greenup across Senegal due to the onset of the rainy season. <iframe width="960" height="540" src="https://www.planet.com/compare/?id=trans-nzoia-kenya-VbOt1ISGg" />',
+            description: '<p> this is a graphic of the seasonal latitudinal greenup across Senegal due to the onset of the rainy season. </p> <iframe width="960" height="540" src="https://www.planet.com/compare/?id=trans-nzoia-kenya-VbOt1ISGg" />',
             location: {
                 center: [-15.833,14.849],
                 zoom: 10.00,
