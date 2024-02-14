@@ -54,8 +54,8 @@ var config = {
             image: './images/ndvigradient1720.gif',
             description: '<p> this is a graphic of the seasonal latitudinal greenup across Senegal due to the onset of the rainy season. </p> <iframe width="960" height="540" src="https://www.planet.com/compare/?id=trans-nzoia-kenya-VbOt1ISGg" />',
             location: {
-                center: [-15.833,14.849],
-                zoom: 10.00,
+                center: [-14.28234, 14.86512],
+                zoom: 7.14,
                 pitch: 45.00,
                 bearing: 0.00
                 // flyTo additional controls-
@@ -110,8 +110,8 @@ var config = {
             image: './images/usgstappan1.png',
             description: 'Wooded savannah (rangeland) being converted to cropland in Southern Senegal circa. 2010s ',
             location: {
-                center: [-15.852,14.668],
-                zoom: 14.10,
+		center: [-14.28234, 14.86512],
+                zoom: 7.14,
                 pitch: 45.00,
                 bearing: 0.00
             },
@@ -134,3 +134,7 @@ var config = {
 		}
 	 ]
 	};
+//Touba: center: [-15.852,14.668],
+        //        zoom: 14.10,
+        //        pitch: 45.00,
+        //        bearing: 0.00
